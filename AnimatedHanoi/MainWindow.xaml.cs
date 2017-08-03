@@ -81,7 +81,7 @@ namespace AnimatedHanoi
             x_offset = 0;
             y_offset_up = 0;
             y_offset_down = 0;
-            num_pegs = 1;
+            num_pegs = 5;
             animation_speed = 1.0;
 
         }
